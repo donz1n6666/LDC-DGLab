@@ -63,9 +63,9 @@ http://192.168.x.x:8787
 
 ## 生产环境（需要支付）设置
 
-### 1) 支付平台（pay.md）
+### 1) 支付平台
 
-依照 `pay.md`：在控制台建立 API Key，取得：
+在控制台建立 API Key，取得：
 
 - `PAY_PID`（Client ID）
 - `PAY_KEY`（Client Secret）
