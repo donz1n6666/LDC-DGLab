@@ -9,7 +9,6 @@ RUN npm ci --omit=dev
 
 COPY server ./server
 COPY public ./public
-COPY .env.example ./.env.example
 
 EXPOSE 8787
 
